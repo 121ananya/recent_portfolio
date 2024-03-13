@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a full-stack developer with almost 3 years of experience using Angular, React and
           NodeJS. Reach out if you'd like to learn more!
         </p>
-        <a href="https://drive.google.com/file/d/1_5H1kBMch7YnpWC43EmT_LPdTrhCsW5s/view?usp=drive_link" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1T6ZuybtCe2q5E64kMvr6qvpRu0GIP_0Q/view?usp=sharing" target="_blank" className={styles.contactBtn}>
           Reach Me Through
         </a>
       </div>
