@@ -13,7 +13,7 @@ export const Hero = () => {
           NodeJS. Reach out if you'd like to learn more!
         </p>
         <a href="https://drive.google.com/file/d/1T6ZuybtCe2q5E64kMvr6qvpRu0GIP_0Q/view?usp=sharing" target="_blank" className={styles.contactBtn}>
-          Reach Me Through
+          Resume
         </a>
       </div>
       <img

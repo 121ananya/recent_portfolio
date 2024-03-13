@@ -68,6 +68,7 @@
   flex-direction: row;
   align-items: center;
   gap: 17px;
+  font-size: 24px;
   background: #19556d;
   background: linear-gradient(90deg, #19556d 0%, rgba(25, 55, 109, 0) 100%);
   border-radius: 10px;
@@ -83,7 +84,7 @@
 }
 
 .historyItemDetails h3 {
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 500;
 }
 

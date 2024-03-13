@@ -19,7 +19,7 @@
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 28px;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -29,21 +29,24 @@
   flex-direction: column;
   align-items: flex-start;
   list-style: none;
-  gap: 26px;
+  gap: 20px;
 }
 
 .link {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 10px;
+  font-size: 16px;
+  margin: 10px;
+  padding: 10px;
 }
 
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: 30px;
+  font-size: 22px;
   font-weight: 400;
-  letter-spacing: 1.5px;
+  letter-spacing: 0px;
 }
 
 @media screen and (max-width: 830px) {
