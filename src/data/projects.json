@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food Court",
+    "imageSrc": "projects/project.png",
+    "description": "Food Court project is build to practice core concepts of React, showcasing MERN- Full stack Project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://food-court-mern-hetbhe923-121ananya.vercel.app/",
+    "source": "https://github.com/121ananya/FoodCourt_MERN"
+  },
+  {
+    "title": "Dice Game",
+    "imageSrc": "projects/dice.png",
+    "description": "React project for rolling dice,displaying  basic fundamentals of JS Library",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://dice-game-react-lo2woi7g9-121ananya.vercel.app/",
+    "source": "https://github.com/121ananya/diceGame_React"
+  }, {
+    "title": "Quiz App",
+    "imageSrc": "projects/quiz.png",
+    "description": "Quiz App is made on Angular,demonstrating core concepts JS Framework ",
+    "skills": ["Angular", "Express", "Node", "css"],
+    "demo": "https://644235e235947c258b786940--stirring-otter-6c8863.netlify.app/welcome",
+    "source": "https://github.com/121ananya/Quizz_App?tab=readme-ov-file"
+  }
+ 
+]

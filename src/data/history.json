@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Pristyn Care - Med tech Product based Company ",
+    "startDate": "May, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked as Frontend Developer", "Worked as UI Developer"],
+    "imageSrc": "history/pri.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Vcomply -Product based Company",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked as Backend Developer", "Worked as Frontend Developer"],
+    "imageSrc": "history/vcomply.webp"
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "Vcomply",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Rnd SSO - google auth 2.O, Solved Multiple existing bugs on their existing projects on prod",
+      "Contributed in Assignment Dash from the scratch & improving code base quality upto >80% "
+    ],
+    "imageSrc": "history/vcomply.webp"
+  }
+]
